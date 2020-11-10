@@ -9,7 +9,7 @@
                     <th>Nama Mahasiswa</th>
                     <th>Jurusan</th>
                     <th>Semester</th>
-                    <th><a href="" class="btn btn-primary">Tambah</a></th>                
+                    <th><a href="<?php base_url(); ?>Tambah" class="btn btn-primary">Tambah</a></th>                
              
                     </tr>
                     <tr>
